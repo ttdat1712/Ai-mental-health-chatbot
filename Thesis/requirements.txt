@@ -1,0 +1,9 @@
+streamlit
+langchain
+pymongo
+scikit-learn
+numpy
+sentence-transformers
+transformers
+accelerate
+python-dotenv
