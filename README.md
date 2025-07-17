@@ -29,8 +29,8 @@ app/
 ## Setup Instructions
 1. **Clone the repository:**
    ```powershell
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/ttdat1712/Ai-mental-health-chatbot.git
+   cd Ai-mental-health-chatbot
    ```
 2. **Install dependencies:**
    ```powershell
